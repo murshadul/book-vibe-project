@@ -7,7 +7,9 @@ function App() {
 
   return (
     <>
-     
+     <div className="container mx-auto text-center">
+      <h2 className='font-bold text-2xl'>Hello</h2>
+     </div>
     </>
   )
 }
